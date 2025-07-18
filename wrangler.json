@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "israeldaily",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "ffc3b1aa-df91-47d3-a847-6130cac224a0",
+      "database_name": "israeldaily"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
